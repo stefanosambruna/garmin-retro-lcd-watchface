@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Retro LCD</string>
+    <string id="ColorTitle">Digit color</string>
+    <string id="GhostTitle">Show unlit segments</string>
+    <string id="SecondsTitle">Show seconds</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorGreen">LCD green</string>
+    <string id="ColorAmber">Amber</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorCyan">Cyan</string>
+</strings>

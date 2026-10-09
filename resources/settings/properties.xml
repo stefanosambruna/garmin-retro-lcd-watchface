@@ -1,0 +1,5 @@
+<properties>
+    <property id="Color" type="number">15132390</property>
+    <property id="Ghost" type="boolean">true</property>
+    <property id="Seconds" type="boolean">true</property>
+</properties>

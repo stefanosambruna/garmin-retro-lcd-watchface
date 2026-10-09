@@ -1,0 +1,5 @@
+<fonts>
+    <!-- generati da tools/gen_assets.py -->
+    <font id="Big" filename="seg_big.fnt" antialias="true" filter="0123456789:"/>
+    <font id="Small" filename="seg_small.fnt" antialias="true" filter="0123456789-°ADEFHIMNORSTUW"/>
+</fonts>

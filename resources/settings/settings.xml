@@ -1,0 +1,17 @@
+<settings>
+    <setting propertyKey="@Properties.Color" title="@Strings.ColorTitle">
+        <settingConfig type="list">
+            <listEntry value="15132390">@Strings.ColorWhite</listEntry>
+            <listEntry value="11723920">@Strings.ColorGreen</listEntry>
+            <listEntry value="16755200">@Strings.ColorAmber</listEntry>
+            <listEntry value="16724016">@Strings.ColorRed</listEntry>
+            <listEntry value="7258608">@Strings.ColorCyan</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.Ghost" title="@Strings.GhostTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+    <setting propertyKey="@Properties.Seconds" title="@Strings.SecondsTitle">
+        <settingConfig type="boolean"/>
+    </setting>
+</settings>
